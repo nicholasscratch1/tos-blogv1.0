@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://tos-blog.com/
+
+# Sitemaps
+Sitemap: https://tos-blog.com/sitemap.xml
